@@ -1,0 +1,24 @@
+README
+# POE_PROG_PART3 – Cybersecurity Chatbot GUI
+
+This is my final Programming 2A POE submission. It includes:
+
+## ✅ Features
+- **Cybersecurity Task Assistant**
+  - Add tasks with reminders (e.g., “enable 2FA”)
+  - View and manage reminders
+
+- **Mini Cybersecurity Quiz**
+  - 10 randomized questions (T/F and MCQ)
+  - Instant feedback and score
+
+- **NLP Simulation**
+  - Detects natural phrases like “remind me to change password”
+
+- **Sentiment Detection**
+  - Responds to emotions like “worried” or “confused”
+
+## 🛠️ Setup Instructions
+1. Open in Visual Studio 2022 or newer.
+2. Create a new `Windows Forms App (.NET Framework)`.
+3. Run the program and test chatbot features.
